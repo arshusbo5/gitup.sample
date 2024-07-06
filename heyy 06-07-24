@@ -1,0 +1,5 @@
+today I add login page my vode (06-07-24)
+int a=0;
+printf("enter two numbers ");
+scanf("%d ",&a);
+printf("result is ",&a);
